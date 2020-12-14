@@ -4,7 +4,7 @@ const Test2 = () =>{
 
   return (
     <div>
-      哈哈哈哈哈哈22
+      哈哈哈
     </div>
   )
 };
